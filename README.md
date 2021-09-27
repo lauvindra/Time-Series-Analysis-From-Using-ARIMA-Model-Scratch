@@ -45,4 +45,4 @@ After Time Series stationary, making models on time series is easy because it is
 * https://www.machinelearningplus.com/time-series/time-series-analysis-python/
 * https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
 
-Check my PDF readme file for more detailed information and notebook for the implementaion for this project using Air Passengers dataset.
+Check my Time Series Analysis PDF file for more detailed information and notebook for the implementaion for this project using Air Passengers dataset.
